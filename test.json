@@ -1,3 +1,12 @@
 {
-  "arnoldcs": {"scale":[2.0,5.0,5.0],"rotation": [180.0, 180.0, 180.0] }
+  "arnoldcs": {
+    "scale": [10, 10, 10],
+    "rotation": [0, 0, 0],
+    "shiftBlocks": [0, 0]
+  },
+  "HealerPrioFan": {
+    "scale": [2, 0.5, 1],
+    "rotation": [0, 180, 180],
+    "shiftBlocks": [0, -1]
+  }
 }
