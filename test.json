@@ -5,9 +5,9 @@
     "shiftBlocks": [0, 0]
   },
   "HealerPrioFan": {
-    "scale": [2, 0.5, 1],
-    "rotation": [0, 180, 180],
-    "shiftBlocks": [0, -1]
+    "scale": [1, 1, 1],
+    "rotation": [0, 0, 0],
+    "shiftBlocks": [0, 0]
   },
   "04Keuno": {
     "scale": [1.5, 0.9, 1],
